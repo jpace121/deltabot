@@ -1,6 +1,6 @@
 #Patents#
 
-##Fanuc Patent##   
+##Fanuc Patent##
 
 [Fanuc Patent](http://www.google.com/patents/US4976582)   
 
