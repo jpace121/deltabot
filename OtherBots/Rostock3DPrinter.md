@@ -1,4 +1,4 @@
-#Rostock 3D Printer#   
+#Rostock 3D Printer#
 
 ##Links##
 Video Link [here](https://www.youtube.com/watch?v=AYs6jASd_Ww).   
