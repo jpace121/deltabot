@@ -5,7 +5,8 @@ Delta bots are made up of three separated evenly at 120 deg increments.
 Each arm is made up of a "lever" (my vocab) attached to the motor, and a 
 "forearm" attached to the end effector.  The arm and forearm are attached by
 a universal joint.  The end effector is attached to the forearm by another
-universal joint.  (As always, universal joints may be replaces by ball joints.)
+universal joint.  (As always, universal joints may be replaces by ball joints.
+Which for my idea is what I'm thinking of doing.)
     
 This basic design gives us three degrees of freedom (our Cartesian Directions).
 For rotation, need to add a way for either the end effector to rotate about the
